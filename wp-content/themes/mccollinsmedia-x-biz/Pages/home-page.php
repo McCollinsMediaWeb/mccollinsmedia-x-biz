@@ -28,35 +28,40 @@ get_header();
                     <div class="layer1">
                         <div class="Laye1-cnt">
                             <div>
-                                <div class="T1">I’m looking for</div>
-                                <div class="Cst-select">
-                                    <div class="Cst-select-selected">
-                                        Get a free zone visa
-                                        <span>
-                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23.484" height="15.658" viewBox="0 0 23.484 15.658">
-                                                <defs>
-                                                    <clipPath id="clip-path">
-                                                        <rect id="Rectangle_184" data-name="Rectangle 184" width="15.658" height="23.484" fill="#fff" />
-                                                    </clipPath>
-                                                </defs>
-                                                <g id="Group_259" data-name="Group 259" transform="translate(0 15.658) rotate(-90)">
-                                                    <g id="Group_258" data-name="Group 258" transform="translate(0 0)" clip-path="url(#clip-path)">
-                                                        <path id="Path_177" data-name="Path 177" d="M5.016,11.741l9.94-8.283A1.958,1.958,0,0,0,12.448.449L.7,10.236a1.959,1.959,0,0,0,0,3.009l11.744,9.787a1.958,1.958,0,0,0,2.508-3.009Z" transform="translate(0 0)" fill="#fff" />
+                                <div class="overflow-hidden">
+                                    <div class="T1 rombus">I’m looking for</div>
+                                </div>
+                                <div>
+                                    <div class="Cst-select  rombus">
+                                        <div class="Cst-select-selected">
+                                            Get a free zone visa
+                                            <span>
+                                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23.484" height="15.658" viewBox="0 0 23.484 15.658">
+                                                    <defs>
+                                                        <clipPath id="clip-path">
+                                                            <rect id="Rectangle_184" data-name="Rectangle 184" width="15.658" height="23.484" fill="#fff" />
+                                                        </clipPath>
+                                                    </defs>
+                                                    <g id="Group_259" data-name="Group 259" transform="translate(0 15.658) rotate(-90)">
+                                                        <g id="Group_258" data-name="Group 258" transform="translate(0 0)" clip-path="url(#clip-path)">
+                                                            <path id="Path_177" data-name="Path 177" d="M5.016,11.741l9.94-8.283A1.958,1.958,0,0,0,12.448.449L.7,10.236a1.959,1.959,0,0,0,0,3.009l11.744,9.787a1.958,1.958,0,0,0,2.508-3.009Z" transform="translate(0 0)" fill="#fff" />
+                                                        </g>
                                                     </g>
-                                                </g>
-                                            </svg>
+                                                </svg>
 
-                                        </span>
-                                    </div>
-                                    <div class="Cst-select-options">
-                                        <a href="#">Bank Account Opening</a>
-                                        <a href="#">Visa Process</a>
-                                        <a href="#">Tax Services</a>
-                                        <a href="#">Emirates Id And Medical</a>
-                                        <a href="#">Document Attestation</a>
-                                        <a href="#">Co-working & Office Spaces</a>
+                                            </span>
+                                        </div>
+                                        <div class="Cst-select-options">
+                                            <a href="javascript:void(0)" class="openpopup">Bank Account Opening</a>
+                                            <a href="javascript:void(0)" class="openpopup">Visa Process</a>
+                                            <a href="javascript:void(0)" class="openpopup">Tax Services</a>
+                                            <a href="javascript:void(0)" class="openpopup">Emirates Id And Medical</a>
+                                            <a href="javascript:void(0)" class="openpopup">Document Attestation</a>
+                                            <a href="javascript:void(0)" class="openpopup">Co-working & Office Spaces</a>
+                                        </div>
                                     </div>
                                 </div>
+
                             </div>
                         </div>
                     </div>
@@ -65,10 +70,6 @@ get_header();
         </div>
     </div>
     <!-- Herobanner End -->
-
-    <div class="container">
-
-    </div>
 
 </div>
 

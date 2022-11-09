@@ -182,3 +182,13 @@ function theme_scripts_method(){
 }
 add_action( 'wp_enqueue_scripts', 'theme_scripts_method' );
 
+
+
+//Replace style-login.css with the name of your custom CSS file
+function my_custom_login_stylesheet() {
+    wp_enqueue_style( 'custom-login', get_stylesheet_directory_uri() . '/assets/css/biz-admin.css' );
+}
+
+//This loads the function above on the login page
+add_action( 'login_enqueue_scripts', 'my_custom_login_stylesheet' );
+

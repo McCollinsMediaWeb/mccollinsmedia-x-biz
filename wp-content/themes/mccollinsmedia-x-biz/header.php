@@ -76,11 +76,11 @@
 				</div>
 				<div class="HeaderNavM">
 					<div class="MidNav">
-						<a href="#">How can I help you</a>
-						<a href="#">Value added services</a>
-						<a href="#">Jurisdictions</a>
-						<a href="#">Media Center</a>
-						<a href="#" class="CCLink">Cost Calculator</a>
+						<a href="/mccollinsmedia-x-biz/who-we-are/">How can I help you</a>
+						<a href="/mccollinsmedia-x-biz/value-added-services/">Value added services</a>
+						<a href="/mccollinsmedia-x-biz/jurisdictions/">Jurisdictions</a>
+						<a href="/mccollinsmedia-x-biz/media-center/">Media Center</a>
+						<a href="/mccollinsmedia-x-biz/cost-calculator/" class="CCLink">Cost Calculator</a>
 					</div>
 				</div>
 				<div class="HeaderNavR">
@@ -121,14 +121,14 @@
 					</svg>
 				</span>
 				<div class="NavBox">
-					<a href="#">Home</a>
-					<a href="#">About us</a>
-					<a href="#">Value added services</a>
-					<a href="#">Jurisdictions</a>
-					<a href="#">Media Center</a>
-					<a href="#">Cost Calculator</a>
-					<a href="#">Current Promotions</a>
-					<a href="#">Contact Us</a>
+					<a href="/mccollinsmedia-x-biz/">Home</a>
+					<a href="/mccollinsmedia-x-biz/about-us/">About us</a>
+					<a href="/mccollinsmedia-x-biz/value-added-services/">Value added services</a>
+					<a href="/mccollinsmedia-x-biz/jurisdictions/">Jurisdictions</a>
+					<a href="/mccollinsmedia-x-biz/media-center/">Media Center</a>
+					<a href="/mccollinsmedia-x-biz/cost-calculator/">Cost Calculator</a>
+					<a href="/mccollinsmedia-x-biz/current-promotions/">Current Promotions</a>
+					<a href="/mccollinsmedia-x-biz/contact-us/">Contact Us</a>
 				</div>
 				<div>
 					<div class="SocialMedia">
